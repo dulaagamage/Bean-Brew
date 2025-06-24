@@ -3,19 +3,19 @@
 This is a responsive and visually engaging coffee shop website concept built for practice and fun. It features smooth user interactions, cozy visuals, and a layout that adapts to all screen sizes.
 
 
-## 📑Table of contents
+## 📑 Table of contents
 
-- [Overview](#overview)
-  - [The Project](#the-project)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgements](#acknowledgements)
+- [Overview](#️overview)
+  - [The Project](#️-the-project)
+  - [Screenshot](#️-screenshot)
+  - [Links](#️-links)
+- [My process](#️my-process)
+  - [Built with](#️-built-with)
+  - [What I learned](#️-what-i-learned)
+  - [Continued development](#️-continued-development)
+  - [Useful resources](#️-useful-resources)
+- [Author](#️author)
+- [Acknowledgements](#️acknowledgements)
 
 ## 🔍Overview
 
