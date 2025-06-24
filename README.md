@@ -4,7 +4,7 @@ This is a responsive and visually engaging coffee shop website concept built for
 
 ---
 
-## 📑Table of Contents
+## 📑 Table of Contents
 
 - [Overview](#overview)
   - [The Project](#the-project)
