@@ -7,22 +7,22 @@ This is a responsive and visually engaging coffee shop website concept built for
 ## 📑Table of Contents
 
 - [Overview](#overview)
-  - [🎯The Project](#🎯the-project)
-  - [📸Screenshot](#📸screenshot)
-  - [🔗Links](#🔗links)
+  - [The Project](#the-project)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My Process](#my-process)
-  - [🛠Built with](#🛠built-with)
-  - [📚What I Learned](#📚what-i-learned)
-  - [🚀Continued Development](#🚀continued-development)
-  - [🔎Useful Resources](#🔎useful-resources)
-- [👩‍💻Author](#👩‍💻author)
-- [🙏Acknowledgements](#🙏acknowledgements)
+  - [Built with](#built-with)
+  - [What I Learned](#what-i-learned)
+  - [Continued Development](#continued-development)
+  - [Useful Resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgements](#acknowledgements)
 
 ---
 
-## 🔍Overview
+## 🔍 Overview
 
-### 🎯The Project
+### 🎯 The Project
 
 Users should be able to:
 - Navigate through multiple sections like Home, About, Menu, Gallery, and Contact
@@ -30,20 +30,20 @@ Users should be able to:
 - Enjoy a mobile-friendly, responsive layout
 - Experience a simple Swiper slider for testimonials
 
-### 📸Screenshot
+### 📸 Screenshot
 
 ![](./SS/Home.png)
 
-### 🔗Links
+### 🔗 Links
 
 - 🔴 **Live Site URL**: [https://bean-brew.netlify.app/](https://bean-brew.netlify.app/)
 - 🟣 **GitHub Repository**: [https://github.com/dulaagamage/Bean-Brew](https://github.com/dulaagamage/Bean-Brew)
 
 ---
 
-## ⚙️My Process
+## ⚙️ My Process
 
-### 🛠Built with
+### 🛠 Built with
 
 - Semantic **HTML5**
 - Custom **CSS3** (Mobile-first)
@@ -52,7 +52,7 @@ Users should be able to:
 - **Font Awesome Icons**
 - 💻 VS Code + Live Server
 
-### 📚What I Learned
+### 📚 What I Learned
 
 This project gave me hands-on practice in:
 
@@ -62,14 +62,14 @@ This project gave me hands-on practice in:
 - Designing an aesthetically pleasing and accessible layout
 - Structuring a small multi-section site with scrollable anchors
 
-### 🚀Continued Development
+### 🚀 Continued Development
 
 Future ideas and upgrades:
 - Add form validation for the contact section
 - Optimize assets and lazy-load images
 - Add dark mode toggle with JavaScript
 
-### 🔎Useful Resources
+### 🔎 Useful Resources
 
 - 📘 [SwiperJS Docs](https://swiperjs.com/) – For adding the sliding testimonials
 - 🌐 [Font Awesome](https://fontawesome.com/) – To make my icons ✨iconic✨
@@ -77,7 +77,7 @@ Future ideas and upgrades:
 
 ---
 
-## 👩‍💻Author
+## 👩‍💻 Author
 
 - GitHub – [@dulaagamage](https://github.com/dulaagamage)
 - LinkedIn – [Dulanjalee Gamage](https://www.linkedin.com/in/dulanjalee-gamage-01a7aa207/)
@@ -85,7 +85,7 @@ Future ideas and upgrades:
 
 ---
 
-## 🙏Acknowledgements
+## 🙏 Acknowledgements
 
 Shoutout to the vibes of every cozy coffee shop I’ve ever sat in while dreaming up code ☕❤️  
 Thanks to the OUSL & UOM lecturers for inspiring structured learning and clean UI design.
