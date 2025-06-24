@@ -2,7 +2,6 @@
 
 This is a responsive and visually engaging coffee shop website concept built for practice and fun. It features smooth user interactions, cozy visuals, and a layout that adapts to all screen sizes.
 
----
 
 ## 📑 Table of Contents
 
@@ -17,7 +16,6 @@ This is a responsive and visually engaging coffee shop website concept built for
   - [Useful Resources](#useful-resources)
 - [Author](#author)
 
----
 
 ## 🔍 Overview
 
@@ -29,21 +27,15 @@ Users should be able to:
 - Enjoy a mobile-friendly, responsive layout
 - Experience a simple Swiper slider for testimonials
 
----
-
 ### 📸 Screenshots
 
 ![](./SS/Home.png)
 ![](./SS/About.png)
 
----
-
 ### 🔗 Links
 
 - Live Site URL: [https://dulaagamage.github.io/Bean-Brew/](https://bean-brew.netlify.app/)
 - GitHub Repository: [https://github.com/dulaagamage/Bean-Brew](https://github.com/dulaagamage/Bean-Brew)
-
----
 
 ## ⚙️ My Process
 
@@ -55,8 +47,6 @@ Users should be able to:
 - SwiperJS (for the testimonials slider)
 - Font Awesome Icons
 - VS Code + Live Server
-
----
 
 ### 📚 What I Learned
 
