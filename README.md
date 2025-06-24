@@ -30,7 +30,6 @@ Users should be able to:
 ### 📸 Screenshots
 
 ![](./SS/Home.png)
-![](./SS/About.png)
 
 ### 🔗 Links
 
@@ -74,8 +73,8 @@ In future updates, I’d love to:
 
 👩‍💻 Author
 
-- GitHub - @dulaagamage
-- LinkedIn - Dulanjalee Gamage
+- GitHub - [@dulaagamage](https://github.com/dulaagamage)
+- LinkedIn - [Dulanjalee Gamage](https://www.linkedin.com/in/dulanjalee-gamage-01a7aa207/)
 - Email - dulaagamage123@gmail.com
 
 ### 🙏 Acknowledgements
