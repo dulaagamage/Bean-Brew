@@ -6,14 +6,14 @@ This is a responsive and visually engaging coffee shop website concept built for
 ## 📑 Table of Contents
 
 - [Overview](#overview)
-  - [The Project](#the-project)
-  - [Screenshots](#screenshots)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
   - [Links](#links)
-- [My Process](#my-process)
-  - [Built With](#built-with)
-  - [What I Learned](#what-i-learned)
-  - [Continued Development](#continued-development)
-  - [Useful Resources](#useful-resources)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 
