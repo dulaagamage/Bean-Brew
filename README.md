@@ -32,7 +32,7 @@ Users should be able to:
 
 ### 📸Screenshot
 
-![Homepage Screenshot](./SS/Home.png)
+![](./SS/Home.png)
 
 ### 🔗Links
 
