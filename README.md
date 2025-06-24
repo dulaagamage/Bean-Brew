@@ -6,7 +6,7 @@ This is a responsive and visually engaging coffee shop website concept built for
 ## 📑Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The Project](#the-project)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
